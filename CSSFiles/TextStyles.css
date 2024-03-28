@@ -1,0 +1,59 @@
+html {
+background-color: white;
+}
+
+
+body {
+width: 950px;
+margin-left: 190px;
+margin-right: 185px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+div#page {
+background-color: white;
+padding: 20px;
+min-height: 600px;
+}
+
+nav {
+position: absolute;
+margin-left: auto;
+margin-right: auto;
+width: 170px;
+font-family: Garamond;
+
+}
+
+h1 {
+font-family: Georgia;
+font-size: 35px;
+padding-bottom: 10px;
+}
+h2 {
+font-family: Georgia;
+font-size: 25px;
+padding-bottom: 10px;
+}
+h3 {
+font-family: Georgia;
+font-size: 20px;
+padding-bottom: 10px;
+}
+p {
+padding-bottom: 10px;
+font-size: 18px;
+font-family: Georgia;
+}
+aside {
+    float: right;
+    width: 30%;
+    background-color: #ddd;
+    padding: 20px;
+	font-size: 1em;
+}
+.bold-text {
+    font-weight: bold;
+	font-size: 1.1em;
+  }
